@@ -1,6 +1,5 @@
 # Singleton design pattern – having a unique instance of a type in the entire program
 
-## Description
 You'll use the Singleton pattern in many different situations. For example:
   - When you want to use the same connection to a database to make every query
   - When you open a Secure Shell (SSH) connection to a server to do a few tasks, and don't want to reopen the connection for each task
