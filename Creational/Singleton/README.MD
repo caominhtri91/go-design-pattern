@@ -1,4 +1,4 @@
-#Singleton design pattern – having a unique instance of a type in the entire program
+# Singleton design pattern – having a unique instance of a type in the entire program
 
 ## Description
 You'll use the Singleton pattern in many different situations. For example:
