@@ -1,4 +1,4 @@
-#Builder design pattern - reusing an algorithm to create many implementations of an interface
+# Builder design pattern - reusing an algorithm to create many implementations of an interface
 
 ## A Builder design pattern tries to:
 - Abstract complex creations so that object creation is separated from the object user
